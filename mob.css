@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.menu {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(90, 90, 211);
+}
+.Conteúdo {
+    width: 100%;
+    background-color: aqua;
+}
+.Rodapé {
+    background-color: violet;
+    width: 100%;
+    text-align: center;
+}
+.info-Cinema {
+    width: 100%;
+    background-color: blue;
+}
+.info-Filme {
+    width: 100%;
+    background-color:pink;
+}
+.info-Filme-Retro {
+    width: 100%;
+    background-color:green;
+
+}
+.info-Destaque {
+    width: 100%;
+    background-color: orange;
+}
